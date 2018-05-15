@@ -2,7 +2,7 @@
 using namespace std;
 
 #include "defines.h"
-#include "string.h"
+#include "mystring.h"
 
 
 

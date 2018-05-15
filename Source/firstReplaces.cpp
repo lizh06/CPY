@@ -9,7 +9,7 @@
 #include "extensionHandler.h"
 #include "file.h"
 #include "line.h"
-#include "string.h"
+#include "mystring.h"
 #include "sourceGen.h"
 using namespace std;
 

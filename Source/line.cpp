@@ -3,7 +3,7 @@
 #include <string.h>
 #include <vector>
 #include <unordered_set>
-#include "string.h"
+#include "mystring.h"
 #include "defines.h"
 using namespace std;
 

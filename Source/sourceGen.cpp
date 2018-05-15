@@ -11,7 +11,7 @@ using namespace std;
 #include "defines.h"
 #include "sourceGen.h"
 #include "headerGen.h"
-#include "string.h"
+#include "mystring.h"
 #include "file.h"
 #include "line.h"
 #include "extensionHandler.h"
